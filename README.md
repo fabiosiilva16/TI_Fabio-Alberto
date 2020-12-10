@@ -16,7 +16,7 @@ Este projeto consiste na criação de um website para uma loja de telemóveis "L
   * Os ficheiros de **Bootstrap** poderão ser encontrados na pasta css e js.
   * As **Imagem** poderão ser encontrados na pasta img.
   * Comtém todos os ficheiros de html.
-  **A documentação será encontrado no doc.**
+* **A documentação será encontrado no doc.**
   * Contém os ficheiros c1, c2, c3, c4.
 
 ## Tecnologias
