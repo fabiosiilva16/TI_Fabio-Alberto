@@ -9,13 +9,15 @@ Este projeto consiste na criação de um website para uma loja de telemóveis "L
 
 ## Organização do Repositório
 
-* **O projeto será encontrado no src.
+* **O projeto será encontrado no src.**
   * Os ficheiros de **JavaScript** poderão ser encontrados na pasta js.
   * Os ficheiros de **CSS** poderão ser encontrados na pasta css.
   * Os ficheiros de **PHP** poderão ser encontrados na pasta php.
   * Os ficheiros de **Bootstrap** poderão ser encontrados na pasta css e js.
   * As **Imagem** poderão ser encontrados na pasta img.
-  **A documentação será encontrado no doc.
+  * Comtém todos os ficheiros de html.
+  **A documentação será encontrado no doc.**
+  * Contém os ficheiros c1, c2, c3, c4.
 
 ## Tecnologias
 
