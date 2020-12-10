@@ -5,7 +5,17 @@ Web e Multimédia no Instituto Politécnico da Maia (IPMAIA). Desenvolvido por F
 
 ## Descrição do Projeto
 
-Este projeto consiste na criação de um website para uma loja de telemóveis "Lobile". O website será constituido por páginas Html estáticas, onde o design será feito em css e com recurso a libraria bootstrap. Na página inicial terá os produtos principais, se clicar no ver mais de um produto irá abrir outra página onde terá toda a informação detalhada sobre o produto que se deseja ver. Irá ter também uma página com um formulário de contacto e uma página de descrição da loja. 
+Este projeto consiste na criação de um website para uma loja de telemóveis "Lobile". O website será constituído por páginas Html estáticas, onde o design será feito em css e com recurso a libraria bootstrap. Na página inicial irá ter os produtos principais e um filtro de produtos. Na página inicial se clicar no ver mais de um produto irá abrir outra página onde terá toda a informação detalhada sobre o produto que se deseja ver. Irá ter também uma página com um formulário para que a pessoa possa entrar em contacto com a loja. O formulário será criado em html e a conexão irá ser feita em php. E também uma página de sobre nós, onde irá ter informação sobre a loja e métodos de pagamento. O documento XML terá os telemóveis, e também a informação toda detalhada do mesmo. Este documento será integrado numa das páginas de html sobre a forma de tabela de produtos. Iremos utilizar javascript para a criação do menu de filtros.
+
+## Organização do Repositório
+
+* **O projeto será encontrado no src.
+  * Os ficheiros de **JavaScript** poderão ser encontrados na pasta js.
+  * Os ficheiros de **CSS** poderão ser encontrados na pasta css.
+  * Os ficheiros de **PHP** poderão ser encontrados na pasta php.
+  * Os ficheiros de **Bootstrap** poderão ser encontrados na pasta css e js.
+  * As **Imagem** poderão ser encontrados na pasta img.
+  **A documentação será encontrado no doc.
 
 ## Tecnologias
 
@@ -35,3 +45,4 @@ Este projeto consiste na criação de um website para uma loja de telemóveis "L
 
 ## Grupo
 * Fábio Silva Oliveira 34451 [@fabiosiilva16](https://github.com/fabiosiilva16)
+* Alberto João Ribeiro Mendonça 35235
