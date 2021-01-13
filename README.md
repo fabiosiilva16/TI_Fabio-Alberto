@@ -47,4 +47,4 @@ Este projeto consiste na criação de um website para uma loja de telemóveis "L
 
 ## Grupo
 * Fábio Silva Oliveira 34451 [@fabiosiilva16](https://github.com/fabiosiilva16)
-* Alberto João Ribeiro Mendonça 35235
+* Alberto João Ribeiro Mendonça 35235 [@mendonca99](https://github.com/mendonca99\)
